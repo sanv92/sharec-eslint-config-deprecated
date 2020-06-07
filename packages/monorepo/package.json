@@ -1,0 +1,32 @@
+{
+  "private": false,
+  "name": "@sanv/sharec-eslint-config-monorepo",
+  "version": "1.0.0",
+  "description": "Store your monorepo ESLint config in one place and share between projects without any pain",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanderV1992/sharec-eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SanderV1992/sharec-eslint-config/issues"
+  },
+  "homepage": "https://github.com/SanderV1992/sharec-eslint-config#readme",
+  "license": "ISC",
+  "keywords": [
+    "eslint-config",
+    "eslint",
+    "config",
+    "react eslint config",
+    "react eslint",
+    "react typescript config",
+    "typescript config",
+    "eslint jest config",
+    "eslint jest",
+    "eslint stories config",
+    "eslint stories",
+    "sharec eslint config"
+  ]
+}
