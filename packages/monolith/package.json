@@ -28,5 +28,8 @@
     "eslint stories config",
     "eslint stories",
     "sharec eslint config"
-  ]
+  ],
+  "dependencies": {
+    "sharec": "2.2.1"
+  }
 }
