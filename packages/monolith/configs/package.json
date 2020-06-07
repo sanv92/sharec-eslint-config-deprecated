@@ -3,6 +3,7 @@
     "@sanv/tsconfig": "1.0.4",
     "@sanv/eslint-config-react-typescript": "1.2.14",
     "@sanv/eslint-config-stories-typescript": "1.2.14",
-    "@sanv/eslint-config-tests-typescript": "1.2.14"
+    "@sanv/eslint-config-tests-typescript": "1.2.14",
+    "prettier": "2.0.5"
   }
 }
